@@ -1,3 +1,5 @@
+intern ID:CITS9988 
+
 # Titanic Passenger Survival Study
 
 A beginner-friendly Python exploratory data analysis project studying survival patterns among Titanic passengers.
